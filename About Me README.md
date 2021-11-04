@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Matthew Fry
 - 👀 I’m interested in software programming, database design, and urban technology.
-- 🌱 I’m currently completing my MSc project in connected vehicle access control requirements.
+- 🌱 I have completed my Masters Degree in Computer Science including my MSc project in connected vehicle access control requirements.
 - 📫 How to reach me at my LinkedIn page - linkedin.com/in/matthew-c-fry
